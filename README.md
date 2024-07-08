@@ -2,7 +2,7 @@
 
 ## Overview
 
-AdminDashboardV3 is a fully-featured, multi-purpose admin template built with React. It is designed to be clean, modern, and highly customizable to fit various administrative purposes.
+AdminDashboardV3 is a fully-featured, multi-purpose admin template built with React. It is designed to be clean, modern, and highly customizable to fit various administrative purposes it updated version of AdminDashboardV2 with lasy loading.
 
 ## Installation
 
@@ -82,7 +82,7 @@ Start the server:
 
 ## Tech Stack
 
-**Client:** React, Redux, Bootstrap, MUI
+**Client:** React, Redux, Bootstrap, MUI, i18n
 
 **Server:** Node, Express, MongoDB
 
