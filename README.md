@@ -61,58 +61,33 @@ Start the server:
   npm start
 ```
 
-## AdminDashboardV3.ReactJS/
-├── public/
-
-│   ├── favicon.ico
-
-│   ├── index.html
-
-│   ├── manifest.json
-
-│   └── robots.txt
-
-├── src/
-
-│   ├── assets/
-
-│   ├── common/
-
-│   ├── components/
-
-│   ├── constants/
-
-│   ├── helpers/
-
-│   ├── locales/
-
-│   ├── pages/
-
-│   ├── routes/
-
-│   ├── store/
-
-│   ├── App.js
-
-│   ├── App.test.js
-
-│   ├── config.js
-
-│   ├── i18n.js
-
-│   ├── index.js
-
-│   ├── serviceWorker.js
-
-│   └── setupTests.js
-
-├── .gitignore
-
-├── package.json
-
-├── README.md
-
-└── yarn.lock
+## AdminDashboardV3.ReactJS/<br/>
+├── public/<br/>
+│   ├── favicon.ico<br/>
+│   ├── index.html<br/>
+│   ├── manifest.json<br/>
+│   └── robots.txt<br/>
+├── src/<br/>
+│   ├── assets/<br/>
+│   ├── common/<br/>
+│   ├── components/<br/>
+│   ├── constants/<br/>
+│   ├── helpers/<br/>
+│   ├── locales/<br/>
+│   ├── pages/<br/>
+│   ├── routes/<br/>
+│   ├── store/<br/>
+│   ├── App.js<br/>
+│   ├── App.test.js<br/>
+│   ├── config.js<br/>
+│   ├── i18n.js<br/>
+│   ├── index.js<br/>
+│   ├── serviceWorker.js<br/>
+│   └── setupTests.js<br/>
+├── .gitignore<br/>
+├── package.json<br/>
+├── README.md<br/>
+└── yarn.lock<br/>
 
 ## Tech Stack
 
