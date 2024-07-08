@@ -4,6 +4,40 @@
 
 AdminDashboardV3 is a fully-featured, multi-purpose admin template built with React. It is designed to be clean, modern, and highly customizable to fit various administrative purposes it updated version of AdminDashboardV2 with lasy loading.
 
+## Demo
+
+[Click here](https://admin-panel-skote.netlify.app/)
+
+
+## FEATURES:
+
+- Built with Bootstrap v5.3.2
+- React Redux – Redux Saga based architecture
+- React Vite 3.1.1
+- React Redux – Redux Saga – React Hooks based architecture
+- Pure Components based ReactJs, no jQuery
+- Create React App with Skote Admin Template
+- Firebase authentication
+- Fack-backend authentication
+- Facebook & Google authentication
+- Multi-language support with i18n ( JSON object )
+- Light, Dark with RTL supported
+- Multiple Layouts
+- Fully Responsive Layout
+- SASS Powered
+- Sketch, Figma, Adobe XD Files Available
+- Clean & Well Commented Codes
+- W3C Validated Code
+- Box Icons
+- Chat, E-Commerce Product, Orders, Customers, Cart, Checkout, Shops Pages
+- Projects Grid, List, Overview Pages
+- Tasks List, Kanban Board Pages
+- Invoices List and Details pages
+- Contacts and Profile page
+- Data tables
+- Google Font
+- 3 different types of Charts
+
 ## Installation
 
 To use this template, you will need to have Node.js and npm (Node Package Manager) installed. You can download them from [Node.js official website](https://nodejs.org/).
