@@ -27,6 +27,9 @@ import Logout from "../pages/Authentication/Logout"
 // Dashboard
 import Dashboard from "../pages/Dashboard/index"
 import Layout3 from "pages/Layout3/Layout3"
+import { createRequire } from 'module';
+
+const require = createRequire(import.meta.url);
 
 const authProtectedRoutes = [
   { path: "/dashboard", component: <Dashboard/> },
